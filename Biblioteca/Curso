@@ -1,0 +1,4 @@
+public class Curso
+{
+    public static List<Alumno> alumnos = new List<Alumno>();
+}
