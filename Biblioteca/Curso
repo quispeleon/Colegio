@@ -1,4 +1,4 @@
 public class Curso
 {
-    public static List<Alumno> alumnos = new List<Alumno>();
+    public static List<Alumno> alumnos {get; set;} = new List<Alumno>();
 }
