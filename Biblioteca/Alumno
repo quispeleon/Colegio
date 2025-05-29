@@ -4,4 +4,16 @@ public class Alumno
     public string Apellido {get; set;}
     public int Legajo {get; set;}
     public List<Materia> materias {get; set;} = new List<Materia> ();
+
+    public static decimal MateriaAprobada (string Nombre, string NombreMateria, int Nota);
+    {
+        foreach (var Materia in materias)
+        {
+            if(materia.Nota < 6,0)
+            {
+                Console.WriteLine("Materia Aprobada");
+            }
+        }
+    }
+
 }
