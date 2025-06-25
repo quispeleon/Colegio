@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Colegio\\Biblioteca\\Biblioteca.csproj": {}
+    "E:\\Colegio\\Colegio\\Biblioteca\\Biblioteca.csproj": {}
   },
   "projects": {
-    "E:\\Colegio\\Biblioteca\\Biblioteca.csproj": {
+    "E:\\Colegio\\Colegio\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Colegio\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "E:\\Colegio\\Colegio\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "E:\\Colegio\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "E:\\Colegio\\Colegio\\Biblioteca\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\Lab15-PC01\\.nuget\\packages\\",
-        "outputPath": "E:\\Colegio\\Biblioteca\\obj\\",
+        "outputPath": "E:\\Colegio\\Colegio\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
